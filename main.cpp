@@ -104,46 +104,60 @@ bard.tellStory();
 //  action 3: casts vicious mockery
 bard.viciousMockery();
 
-//  6) 
-//  Noun: 
-//  action 1: 
+//  6)
+//  Noun: dragon 
+//  action 1: breathes fire
+dragon.breathesFire();
 
+//  action 2: eats cheese
+dragon.eatsCheese();
 
-//  action 2: 
-
-//  action 3:
+//  action 3: hoards treasure
+dragon.hoardsTreasure();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Earth
+//  action 1: rotates
+earth.rotates();
 
-//  action 2:
+//  action 2: blows up
+earth.blowsUp();
 
-//  action 3:
+//  action 3: cools down
+earth.coolsDown();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: cat
+//  action 1: eats food
+cat.eatsFood();
 
-//  action 2:
+//  action 2: sleeps
+cat.sleeps();
 
-//  action 3:
+//  action 3: purrs
+cat.purrs();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: robot
+//  action 1: walks
+robot.walks();
 
-//  action 2:
+//  action 2: talks
+robot.talks();
 
-//  action 3:
+//  action 3: smashes
+robot.smash();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: computer
+//  action 1: runs code
+computer.runsCode();
 
-//  action 2:
+//  action 2: crashes
+computer.crashes();
 
-//  action 3:
+//  action 3: explodes
+computer.explodes();
 
 
 
