@@ -138,15 +138,15 @@ cat.sleeps();
 cat.purrs();
 
 //  9)
-//  Noun: robot
-//  action 1: walks
-robot.walks();
+//  Noun: wizardOfOz
+//  action 1: conjures courage
+wizardOfOz.conjuresCourage()
 
-//  action 2: talks
-robot.talks();
+//  action 2: creates heart
+wizardOfOz.createsHeart();
 
-//  action 3: smashes
-robot.smash();
+//  action 3: start hot air balloon
+wizardOfOz.startHotAirBalloon();
 
 //  10)
 //  Noun: computer
