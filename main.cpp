@@ -140,7 +140,7 @@ cat.purrs();
 //  9)
 //  Noun: wizardOfOz
 //  action 1: conjures courage
-wizardOfOz.conjuresCourage()
+wizardOfOz.conjuresCourage();
 
 //  action 2: creates heart
 wizardOfOz.createsHeart();
