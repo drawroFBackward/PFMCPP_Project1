@@ -52,84 +52,112 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: car
+//  action 1: moves forward
+car.moveForward();
+//  action 2: stops
+car.stop();
+//  action 3: flashes lights
+car.flashLights();
 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: police
+//  action 1: makes a ticket
+police.makeTicket();
 
-//  action 2:
+//  action 2: shoots pistol
+police.shootPistol();
 
-//  action 3:
+//  action 3: screams
+police.scream();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: alien
+//  action 1: transforms
+alien.transform();
 
-//  action 2:
+//  action 2: shoots laser
+alien.shootLaser();
 
-//  action 3:
+//  action 3: hypnotizes
+alien.hypnotize();
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun: witch
+//  action 1: casts spell
+witch.castSpell();
 
-//  action 2:
+//  action 2: brews potion
+witch.brewPotion();
 
-//  action 3:
+//  action 3: curses
+witch.curse();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: bard
+//  action 1: plays music
+bard.playMusic();
 
-//  action 2:
+//  action 2: tells story
+bard.tellStory();
 
-//  action 3:
+//  action 3: casts vicious mockery
+bard.viciousMockery();
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: dragon 
+//  action 1: breathes fire
+dragon.breathesFire();
 
-//  action 2:
+//  action 2: eats cheese
+dragon.eatsCheese();
 
-//  action 3:
+//  action 3: hoards treasure
+dragon.hoardsTreasure();
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Earth
+//  action 1: rotates
+earth.rotates();
 
-//  action 2:
+//  action 2: blows up
+earth.blowsUp();
 
-//  action 3:
+//  action 3: cools down
+earth.coolsDown();
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: cat
+//  action 1: eats food
+cat.eatsFood();
 
-//  action 2:
+//  action 2: sleeps
+cat.sleeps();
 
-//  action 3:
+//  action 3: purrs
+cat.purrs();
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: wizardOfOz
+//  action 1: conjures courage
+wizardOfOz.conjuresCourage();
 
-//  action 2:
+//  action 2: creates heart
+wizardOfOz.createsHeart();
 
-//  action 3:
+//  action 3: start hot air balloon
+wizardOfOz.startHotAirBalloon();
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun: computer
+//  action 1: runs code
+computer.runsCode();
 
-//  action 2:
+//  action 2: crashes
+computer.crashes();
 
-//  action 3:
+//  action 3: explodes
+computer.explodes();
 
 
 
